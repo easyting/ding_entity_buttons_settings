@@ -112,7 +112,7 @@ function ding_entity_buttons_settings_field_formatter_view(
   $items,
   $display
 ) {
-  $element = array('#theme' => '');
+  $element = array();
   $settings = $display['settings'];
 
   foreach ($items as $delta => $item) {
