@@ -2,5 +2,5 @@ name = Ding entity buttons settings
 description = Advanced settings for ding entity buttons.
 core = 7.x
 package = Ding!
-version = 7.x-1.0
+version = 7.x-1.19
 project = ding_entity_buttons_settings
